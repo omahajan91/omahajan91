@@ -2,5 +2,5 @@
 - 👀 I’m interested in WebDevelopment and DataScience
 - 🌱 I’m currently learning the Upcoming new Technologies
 - 💞️ I’m looking to collaborate on FullStack Projects 
-- 📫 How to reach me via Linkend or email
+- 📫 Reach me via Linkend or email
 - 😄 Pronouns: Om
