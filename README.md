@@ -1,6 +1,6 @@
 - 👋 Hi, I’m OM MAHAJAN
 - 👀 I’m interested in WebDevelopment and DataScience
-- 🌱 I’m currently learning the Upcoming new Technologies
+- 🌱 Currently learning and working with emerging technologies.
 - 💞️ I’m looking to collaborate on FullStack Projects 
 - 📫 Reach me via Linkend or email
 - 😄 Pronouns: Om
